@@ -1,5 +1,3 @@
-
-
-git log
+Update Commit changes
 
 
